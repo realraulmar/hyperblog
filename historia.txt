@@ -12,4 +12,4 @@ Master 2
 
 Mañana nos enfocaremos en su vida laboral.
 
-Esta es una prueba desde WSL 
+Esta es una prueba desde WSL con ssh  
